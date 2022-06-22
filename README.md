@@ -12,7 +12,7 @@
 
  Resources (in no particular order):
  - https://www.w3.org/TR/2003/REC-PNG-20031110/
- - https://www.libpng.org/pub/png/spec/1.2/
+ - http://www.libpng.org/pub/png/spec/1.2/PNG-Contents.html
  - https://pyokagan.name/blog/2019-10-14-png/
  - https://hexed.it/
  - https://www.nayuki.io/page/png-file-chunk-inspector
